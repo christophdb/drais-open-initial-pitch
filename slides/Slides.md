@@ -3,105 +3,93 @@ marp: true
 theme: gaia
 class: invert
 paginate: true
-footer: "https://example.com"
+footer: "Drais Open"
 transition: fade
 ---
-
-# My Presentation
-
-![bg right](https://picsum.photos/800/600)
 
 <!-- _header: '' -->
 <!-- _footer: '' -->
 
----
-
-<!-- Speaker Notes -->
-
-## Slide 1
-
-- Item 1
-- Item 2
-- Item 3
-<!-- Can have multiple on a slide -->
+# "Drais Open"
 
 ---
 
-## Slide 2
+## Mein Ziel
 
-<!-- Can also do a multiline
-comment that will show in notes -->
-
-![Image](https://picsum.photos/800/600)
-
----
-
-## Slide 3
-
-> This is a quote.
+- ich möchte gerne ein Ranglistenturnier in Drais organisieren:
+  - Tagesturnier
+  - kleines Teilnehmerfeld
+  - nichts drumherum
+  - Primär Angebot für Draiser Spieler
+- Wenn das gut ankommt, jedes Jahr aufs neue...
 
 ---
 
-## Slide 4
+## Voraussetzungen für die Organiations eines Turniers
 
-| Column 1 | Column 2 |
-| -------- | -------- |
-| Item 1   | Item 2   |
-| Item 3   | Item 4   |
-
----
-
-![bg opacity](https://picsum.photos/800/600?image=53)
-
-## Slide 5
-
-<div class="columns">
-<div>
-
-## Left
-
-- 1
-- 2
-
-</div>
-<div>
-
-## Right
-
-- 3
-- 4
-
-</div>
-</div>
+- Genehmigung: Anmeldung mindestens 6 Wochen vor Turnierbeginn
+- Teilnahmeberechtigung: DTB-Vereinsmitgliedschaft und ID-Nummer
+- Organisation: Qualifizierter Oberschiedsrichter (mind. C-Lizenz)
+- Regelkonformität: DTB-Turnierordnung und ITF-Regeln
 
 ---
 
-## Slide 6
+## Meine Wunschtermine
 
-<i class="fa-brands fa-twitter"></i> Twitter:
-<i class="fa-brands fa-mastodon"></i> Mastodon:
-<i class="fa-brands fa-linkedin"></i> LinkedIn:
-<i class="fa fa-window-maximize"></i> Blog:
-<i class="fa-brands fa-github"></i> GitHub:
+- 1x vor der Medenrunde (April)
+- 1x nach der Medenrunde (September/Oktober)
 
 ---
 
-# <!--fit--> Large Text
+## Potenzielle Oberschiedsrichter
+
+Es könnte daran scheitern, dass ich einen Oberschiedsrichter brauche.
+In Frage kommen:
+
+- Anna Giani
+- Hady
+
+Ansonsten würde ich selbst den Lehrgang besuchen.
 
 ---
 
-<!-- Needed for mermaid, can be anywhere in file except frontmatter -->
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>
+## Turnierumfang
 
-# Mermaid
+- Tagesturnier an einem Samstag oder Sonntag
+- Herren
+- LK 23-12 (Obergrenze noch zu klären)
+- Maximale Teilnehmerzahl: 16
+- Bei weniger Anmeldungen: Freilos für die Besten
+- (ggf. 4 mehr oder Trostrunde: tbd.)
 
-<div class="mermaid">
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-</div>
+---
+
+#### Ablauf
+
+| Zeit        | Runde        | Spiele     |
+| ----------- | ------------ | ---------- |
+| 09:00-10:30 | 16 Runde 1   | 4 parallel |
+| 10:30-12:30 | 16 Runde 2   | 4 parallel |
+| 12:30-13:30 | 8 Runde 1    | 2 parallel |
+| 13:30-15:00 | 8 Runde 2    | 2 parallel |
+| 15:00-16:30 | Halbfinale 1 | 1 Spiel    |
+| 16:30-18:00 | Halbfinale 2 | 1 Spiel    |
+| 18:00-18:30 | Pause        | -          |
+| 18:30       | Finale       | 1 Spiel    |
+
+---
+
+## Sonstige Punkte
+
+- Nenngeld: noch zu klären
+- Vereinsvoraussetzungen prüfen
+- Verein für einen Tag größtenteils belegt
+- Helfer für Verpflegung organisieren
+- Anmeldung über mybigpoint
+
+---
+
+## Fokus
+
+- Erstes Turnier ohne viel Drumherum
+- Nicht übernehmen beim ersten Mal
