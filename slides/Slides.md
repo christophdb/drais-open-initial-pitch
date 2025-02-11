@@ -46,7 +46,7 @@ transition: fade
 Es könnte daran scheitern, dass ich einen Oberschiedsrichter brauche.
 In Frage kommen:
 
-- Anna Giani
+- Anna
 - Hady
 
 Ansonsten würde ich selbst den Lehrgang besuchen.
